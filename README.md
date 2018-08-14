@@ -1,4 +1,5 @@
 # cnn-lenet-numpy mnist
+[Blog](https://duanyzhi.github.io/CNN/)
 
 # Install 
 numpy 
